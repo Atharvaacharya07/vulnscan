@@ -27,10 +27,10 @@ A **two-stage hybrid framework** for cyber risk analysis.
 
 > **Note:** Due to large file sizes, datasets must be stored externally (Google Drive, Dropbox, etc.) and linked here.
 
-- CIC-IDS-2017 → `<ADD_LINK>`
-- CSE-CIC-IDS-2018 → `<ADD_LINK>`
-- UNSW-NB15 → `<ADD_LINK>`
-- Synthetic Nessus dataset (`findings_realistic_v3.csv`) → `<ADD_LINK>`
+- CIC-IDS-2017 → `https://drive.google.com/drive/folders/1L0Fth5OQrjNqw11TTAoFZQsXaUbIuARX?usp=sharing`
+- CSE-CIC-IDS-2018 → `https://drive.google.com/drive/folders/11Xr267ncPzJ7gjHXdGLtURYOaAzTZj3Y?usp=sharing`
+- UNSW-NB15 → `https://drive.google.com/drive/folders/150zpa5fepFIs0FlPcFUXLH1sS-XXRtQh?usp=sharing`
+- Synthetic Nessus dataset (`findings_realistic_v3.csv`) → `https://drive.google.com/drive/folders/1Y_CpC3W05azQjeuN3pdMxD6zkxiPIXbe?usp=sharing`
 
 ---
 
