@@ -1,7 +1,7 @@
 # Ignore big datasets
-*.csv
+
 *.pcap_ISCX.csv
-*.png
+
 *.ipynb_checkpoints/
 __pycache__/
 *.DS_Store
