@@ -480,7 +480,7 @@ def stage2_run_enhanced():
     except Exception as e:
         print(f"[Stage-2] SHAP not generated (optional): {e}")
 
-    print("\n✅ Stage-2 (Enhanced) complete.")
+    print("\n Stage-2 (Enhanced) complete.")
     return pipe
 
 # ============================================
@@ -490,7 +490,7 @@ _ = stage1_run(DATASET_TO_RUN)
 patch_nessus_with_source_ip()     # ensure Nessus CSV has matching 'Source IP'
 _ = stage2_run_enhanced()
 
-print("\n✅ Done. Artifacts:")
+print("\n Done. Artifacts:")
 print(f"  - Stage-1 alerts: {ALERTS_PATH}")
 print(f"  - Stage-2 prioritised: {ENRICHED_OUT}")
 print(f"  - Feature importances: {FEATURE_IMP_CSV}")
